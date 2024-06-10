@@ -110,7 +110,8 @@ New materials are updated on this course page each Monday.
     course-info/grading
     course-info/ai-tools
     course-info/licensing
-    course-info/theteam
+    ..
+        course-info/theteam
 
 .. toctree::
     :maxdepth: 2
