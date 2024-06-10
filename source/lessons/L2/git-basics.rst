@@ -1,6 +1,8 @@
 Meet Git
 ========
 
+Testing out editing.  Did this work?
+
 This tutorial covers the very basics of version control using Git and GitHub.
 These materials have been adapted for the Geo-Python course from the `GitHub Education Campus Advisors resources <https://github.com/Campus-Advisors>`_, and `Git documentation <https://git-scm.com/about/>`__.
 
