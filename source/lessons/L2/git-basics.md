@@ -1,8 +1,4 @@
----
-title: Meet Git
----
-
-Testing out editing. Did this work?
+# Key concepts
 
 This tutorial covers the very basics of version control using Git and
 GitHub. These materials have been adapted for the Geo-Python course from
