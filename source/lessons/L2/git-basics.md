@@ -145,7 +145,8 @@ your own username or team name.
 
 ![](img/git-copy-url.png)
 
-# JupyterLab git plugin
+# <mark> JupyterLab git plugin </mark>
+<mark>Change this so that it does not use Binder to push directly to github.  Will need to use my own JupyterHub server</mark>
 
 ## Clone a repository from GitHub
 
