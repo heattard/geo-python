@@ -1,4 +1,4 @@
-# Key concepts
+# Meet Git
 
 This tutorial covers the very basics of version control using Git and
 GitHub. These materials have been adapted for the Geo-Python course from
