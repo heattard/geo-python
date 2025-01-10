@@ -13,20 +13,14 @@ The **Geo-Python** course teaches you the basic concepts of programming and scie
 Each lesson is a tutorial with specific topic(s) where the aim is to gain skills and understanding how to solve common data-related tasks using Python.
 Geo-Python is jointly organized by the `Master's Program in Geography <https://www.helsinki.fi/en/degree-programmes/geography-masters-programme>`_ and the `Bachelor's Program in Geoscience <https://www.helsinki.fi/fi/koulutusohjelmat/geotieteiden-kandiohjelma>`_ at the University of Helsinki.
 
-Geo-Python covers the essential skills needed to continue to more advanced courses such as `Automating GIS processes <https://autogis.github.io>`_ and/or `Introduction to Quantitative Geology <https://introqg.github.io>`_.
-
 .. admonition:: Open Access!
 
     The course is **open for everyone to follow online**.
     The aim of this course is to share the knowledge and help people to get started with their journey towards doing science more efficiently and in a reproducible manner using Python programming.
 
-.. admonition:: University of Helsinki students
+.. admonition:: Daemen University students
 
-    The Geo-Python course is run under two course codes in teaching period I at the University of Helsinki.
-    Please sign up using only one of these course codes (not both)!
-
-    - GEOG-329-1 for geography students
-    - GEOK3001 for geology students
+    This course will be used as *part* of the course NSC 457.  
 
 Course format
 -------------
