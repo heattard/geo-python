@@ -21,38 +21,23 @@ All meetings will take place in the Weather and Climate (WaC) lab (located in DS
 Instructors
 -----------
 
-Email: *firstname.lastname@helsinki.fi*
+Email: *hattard@daemen.edu*
 
 Lecturers
 ~~~~~~~~~
 
-- Kamyar Hasanzadeh
+- Hannah Attard
 
-  - Office: D431, Exactum
+  - Office: DS 211
 
-- David Whipp
-
-  - Office: D426, Exactum
-
-Course assistants
-~~~~~~~~~~~~~~~~~
-
-- Mikko Kangasmaa
-- Aino Schulz
-- Veeti Sihvola
-- Leevi Tuikka
 
 Course websites
 ---------------
 
-- Course sites for Period I (Introduction to Python programming):
+- Course sites:
 
-  - Main course site: `<https://geo-python.github.io>`_
-  - Notebooks by CSC: `<https://notebooks.csc.fi>`_
+  - Main course site: `<https://geo-python-heattard.readthedocs.io/en/latest/index.html>`_
+ ..
+   - Notebooks by CSC: `<https://notebooks.csc.fi>`_
   - Discord (Q&A + chat): `<https://discord.com/>`_
   - Polling / voting (active during lectures only): `<https://geo-python.github.io/poll>`_
-
-- Course websites for Period II
-
-  - Automating GIS processes (GEOG-329-2): `<https://autogis.github.io>`_
-  - Introduction to Quantitative Geology (GEOM2021): `<https://introqg.github.io>`_
