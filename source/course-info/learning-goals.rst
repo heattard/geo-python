@@ -2,11 +2,11 @@ Learning goals
 ==============
 
 During the Geo-Python course you will learn the basics of programming and scientific data analysis in the Python programming language.
-This course will also teach you several skills related to open science. Each week you will learn new skills building upon the content of the previous weeks.
+This course will also teach you several skills related to open science. In each topic you will learn new skills building upon the content of the previous topics.
 
-After each week of the course, students will be able to:
+After each topic of the course, students will be able to:
 
-Week one
+Topic one
 --------
 
 * Understand tools we are using during this course
@@ -20,7 +20,7 @@ Week one
 * Describe the concept of a data type
 * Determine the data type of a variable in Python
 
-Week two
+Topic two
 --------
 
 * conduct basic data type conversions
@@ -30,7 +30,7 @@ Week two
 * use git and GitHub to record changes to your files
 * use Jupyter notebooks for writing and documenting your code
 
-Week three
+Topic three
 ----------
 
 * create a for loop and use it to repeat a section of code
@@ -38,7 +38,7 @@ Week three
 * write a short piece of pseudo-code
 * format and indent code when using for loops and conditional statements
 
-Week four
+Topic four
 ---------
 
 * explain how functions are used and why they are useful
@@ -46,7 +46,7 @@ Week four
 * save functions to a separate script file
 * write docstrings for functions and script files
 
-Week five
+Topic five
 ---------
 
 * explain what a Python module is and how they can be used
@@ -55,7 +55,7 @@ Week five
 * understand the structure and basic functionality of a pandas DataFrame
 * explore data in a pandas DataFrame
 
-Week six
+Topic six
 --------
 
 * manage and analyze tabular data using pandas
@@ -63,7 +63,7 @@ Week six
 * understand common Python errors
 * follow a simple set of guidelines to debug programs efficiently
 
-Week seven
+Topic seven
 ----------
 
 * visualize tabular data using Matplotlib
