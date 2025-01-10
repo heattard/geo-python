@@ -36,11 +36,10 @@ Students will also learn to use version control (git) and online repositories (G
 Themes for each week are listed below.
 You can also read more about the weekly :doc:`learning goals <course-info/learning-goals>`.
 
-The course runs for seven weeks in the autumn semester starting on the 4th of September 2023.
-New materials are updated on this course page each Monday.
+The course has 7 themes that will be addressed throughout the semester.   
 
 +----------+----------------------+
-| Week     | Theme                |
+| Number   | Theme                |
 +==========+======================+
 |**1**     | Basic concepts of    |
 |          | Python and computer  |
@@ -76,7 +75,7 @@ New materials are updated on this course page each Monday.
 
 .. admonition:: Step by step instructions with cloud computing!
 
-    The materials are presented in a way that you can follow them step by step exactly as they are written, as long as you use the cloud computing resources that we provide for you (namely JupyterLab Notebooks using Binder or CSC Cloud computing resources).
+    The materials are presented in a way that you can follow them step by step exactly as they are written, as long as you use the computing resources that we provide for you (namely JupyterLab Notebooks using Binder or CSC Cloud computing resources).
     If you would like, you can find :doc:`more information about our cloud computing environment <lessons/L1/course-environment-components>`.
     For those planning to work on the course materials on your own computer, please note that you will **need to adjust the file paths to the data** accordingly.
 
