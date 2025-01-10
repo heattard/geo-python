@@ -37,6 +37,7 @@ Course websites
 - Course sites:
 
   - Main course site: `<https://geo-python-heattard.readthedocs.io/en/latest/index.html>`_
+  - Blackboard course 
  ..
    - Notebooks by CSC: `<https://notebooks.csc.fi>`_
   - Discord (Q&A + chat): `<https://discord.com/>`_
