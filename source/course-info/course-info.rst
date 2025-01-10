@@ -1,15 +1,17 @@
 General info
 ============
 
-This is a joint course for geography and geology students at the Department of Geosciences and Geography, University of Helsinki (course codes GEOK3001 and GEOG-329-1).
+This course was created for geography and geology students at the Department of Geosciences and Geography, University of Helsinki.
 
 Course materials are freely available online for anyone interested in the course contents.
 
-Course meetings in Period I
+This version was edited in 2025 by Hannah Attard for Natural Science Students at Daemen University. 
+
+Course meetings for Spring 2025, NSC 457 students 
 ---------------------------
 
 - Lectures:
-   - Mondays 09:15 - 12:00 in A129, Chemicum 
+   - Tuesdays 11:30a-12:30p in the Weather and Climate (WaC) lab (located in DS 211)
 - Work sessions:
    - Group 1 on Thursdays 12:15 - 16:00 in A113+A114, Physicum
    - Group 2 on Fridays 10:15 - 14:00 in A113+A114, Physicum
