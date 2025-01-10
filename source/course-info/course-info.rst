@@ -7,14 +7,16 @@ Course materials are freely available online for anyone interested in the course
 
 This version was edited in 2025 by Hannah Attard for Natural Science Students at Daemen University. 
 
-Course meetings for Spring 2025, NSC 457 students 
+Course meetings for Spring 2025
 ---------------------------
+All meetings will take place in the Weather and Climate (WaC) lab (located in DS 211)
 
-- Lectures:
-   - Tuesdays 11:30a-12:30p in the Weather and Climate (WaC) lab (located in DS 211)
+- Lecture:
+   - Tuesdays 11:30a - 12:30p 
+   - Friday 11:15a - 1:15p
 - Work sessions:
-   - Group 1 on Thursdays 12:15 - 16:00 in A113+A114, Physicum
-   - Group 2 on Fridays 10:15 - 14:00 in A113+A114, Physicum
+   - Part of Fridays class
+   - As students determine
 
 Instructors
 -----------
