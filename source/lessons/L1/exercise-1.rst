@@ -53,4 +53,4 @@ Part 2 - Cooking up some Python
 
     You can also take a look at the template repository *of the original assignment from University of Helsinki* on GitHub: https://github.com/Geo-Python-2023/Exercise-1. **Note that the version used in this course is slightly different** 
 
-    Note that you are only able to make changes in your personal repository generated via GitHub Classroom.
+    *You are only able to make changes in your personal repository generated via GitHub Classroom.*
