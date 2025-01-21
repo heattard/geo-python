@@ -3,7 +3,7 @@ Exercise 1
 
 .. admonition:: Deadline
 
-    Please complete this exercise **by the start of the next lesson (9:15 on 11 September 2023)**.
+    Please complete this exercise **by 10 February 2025 at 11:59 pm **.
 
 The exercise for this week has three parts.
 First, you will **create an account on GitHub.com**.
