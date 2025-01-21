@@ -3,7 +3,7 @@ Exercise 1
 
 .. admonition:: Deadline
 
-    Please complete this exercise **by 10 February 2025 at 11:59 pm **.
+    Please complete this exercise **by 10 February 2025 at 11:59 pm **
 
 The exercise for this week has three parts.
 First, you will **create an account on GitHub.com**.
@@ -46,6 +46,8 @@ Part 2 - Cooking up some Python
 4. Cook up some Python according to the instructions!  
 5. Push your final version to your github repo that is created by accepting the github classroom assignment 
 
+.. Private Repositories::
+    The exercise repositories are private.  They are visible only to you and the course instructors
 
 .. note::
 
