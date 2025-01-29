@@ -106,8 +106,8 @@ The course has 7 themes that will be addressed throughout the semester.
     lessons/L1/discord-usage
     notebooks/L1/a-taste-of-python.ipynb
     notebooks/L1/gcp-1-variable-naming.ipynb
-    lessons/L1/exercise-1
-
+    exercises/exercise-1
+.md
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 2
