@@ -6,7 +6,7 @@ Exercise 1
     Please complete this exercise **by 10 February 2025 at 11:59 pm **
 
 
-Part 1 - Sign up for GitHub
+Part 1 - Set Up your Directory
 ---------------------------
 
 1. Open a web browser and navigate to https://www.github.com.
