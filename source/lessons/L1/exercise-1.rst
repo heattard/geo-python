@@ -5,10 +5,6 @@ Exercise 1
 
     Please complete this exercise **by 10 February 2025 at 11:59 pm **
 
-The exercise for this week has three parts.
-First, you will **create an account on GitHub.com**.
-Next, you will **let us know your GitHub username via Discord**.
-Finally, you will **cook up some Python** using the skills you learned during the first lesson!
 
 Part 1 - Sign up for GitHub
 ---------------------------
