@@ -14,8 +14,7 @@ This exercise is inspired by [Finland being ranked the world's happiest country 
 
 4. Use the file browser on the left side of the Jupyter Lab window to change the name of your notebook file to `Exercise-1.ipynb`.
 
-## Problem 2 - Create your github repository
-Note: The steps in Problem 2, 2.5, and Continuing to commit your work are from [this youtube video.](https://www.youtube.com/watch?v=jXpT8eOzzCM) 
+## Problem 2 - Create your git repository
 
 1. Go back to your terminal and make sure you are in the `exercise-1` directory
 
@@ -31,7 +30,9 @@ Note: The steps in Problem 2, 2.5, and Continuing to commit your work are from [
 
 7. At this point if you run `git status` it should say there is nothing to commit, which means that all of your changes and version control are *stored locally*
 
+<!---
 ## Problem 2.5 - Connect what you are doing locally to your github repository online
+Note: The steps in Problem 2, 2.5, and Continuing to commit your work are from [this youtube video.](https://www.youtube.com/watch?v=jXpT8eOzzCM) 
 9. In your github repository where you accepted the assignment, copy the link to your repo
 
 10. In your termainal type `git remote add orgin <link to your repo>` (remove the <>).  This links your *local* repo to your repo online
@@ -43,7 +44,7 @@ Note: The steps in Problem 2, 2.5, and Continuing to commit your work are from [
 13. Enter your *github* password
 
 14. On your browser if you refresh the page on your github repo you can see all of the files you committed.
-
+-->
 ## Continue to commit your code as you work
 As you continue in this exericise you will be making changes to your notebook `Exercise-1.ipynb`. These changes need to be committed, so they are saved in your version control.
 
@@ -52,13 +53,14 @@ To commit a change you will run the same steps repeatedly from the terminal:
 
 2. `git commit -m "short blurb about what changed"`
 
+<!---
 Periodically (**and always before you leave the lab**), you will need to *push* these changes to your online repository. To do this:
 1. `git push`
 
 2. Enter your *github* username
 
 3. Enter your *github* password 
-
+-->
 ## Problem 3 - Defining some numerical variables
 
 In the top cell of the new notebook:
@@ -114,7 +116,8 @@ Based on the factors above, my happiness rating is 8.5 out of 10, or 85.0 %!
 ```
 
 Note that your code should replace “Dave” with the contents of your `first_name` variable, “9” with your value stored in the variable `ice_cream_rating`, etc. For your equivalent text with the full name (e.g., "Dave Whipp"), you can either use the values from the variables `first_name` and `last_name`, or the value in variable `my_name`.
-
+<!---
 ## Finishing the exercise
 
 To complete this exercise, make sure you have pushed your final changes to your github repository. Go to your github repo and look at your notebook (you can click on it and it will open in a read-only format) to make sure it has all of your final changes
+--->
