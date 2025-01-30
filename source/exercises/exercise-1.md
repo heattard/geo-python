@@ -12,7 +12,7 @@ This exercise is inspired by [Finland being ranked the world's happiest country 
    
 3. Open Jupyter lab from the browser as was discussed in class and create a new notebook in your `exercise-1` directory.
 
-4. Use the file browser on the left side of the Jupyter Lab window to change the name of your notebook file to `Exercise-1.ipynb`.
+4. Use the file browser on the left side of the Jupyter Lab window to change the name of your notebook file to `exercise-1.ipynb`.
 
 ## Problem 2 - Create your git repository
 
