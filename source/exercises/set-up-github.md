@@ -30,6 +30,30 @@ After you create your repo in the step above you will be on the main page of you
 6. I will receive an email inviting me to the repository. Once I accept, I will have access to your repo. This is how I will see your completed exercises. 
 
 ## Exercise 4 - Set up SSH with github 
+These directions are based on [these github directions to generate a key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [these directions to add teh SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+1. In your terminal past this text: `ssh-keygen -t ed25519 -C "your_email@example.com"`
+
+2. When you are promted to "Enter a file in which to save the key", you can press **Return** to accept the default file location
+
+3. At the prompt, type a secure passphrase **do NOT leave this empty**
+
+4. Copy the SSH public key to your clipboard by copying this into your terminal `more ~/.ssh/id_ed25519.pub` and highlighting and copying the output
+
+5. In the upper-right corner of any page on GitHub click your profile photo, then click **Settings**
+
+6. In the "Access" section of the sideboar, click **SSH and GPG keys**
+
+7. Click **New SSH key** or **Add SSH key**
+
+8. In the "Title" field type "WaC server"
+
+9. For the type of key select "Authentication"
+
+10. In the "Key" field paste the public key you copied from the terminal
+
+11. Click **Add SSH** key
+
+12. If prompted, confirm access to your account on GitHub 
 
 ## Exercise 5 - Connect your github repo to the Wac Server 
 1. Navigate to your `geo-python` repo
@@ -53,7 +77,6 @@ After you create your repo in the step above you will be on the main page of you
 1. If you already started exericse 1, copy your `exercise-1.ipynb` notebook into this directory
    
 2. If you did not start exercise 1, create your `exercise-1.ipynb` notebook in this directory
-
    
 3. Type `git add exercise-1.ipynb` this puts your new notebook into your git repo
    * You must do this every time with a new file
