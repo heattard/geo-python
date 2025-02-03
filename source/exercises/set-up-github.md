@@ -15,7 +15,7 @@ A repository (often referred to as "repo") is a centralized location where data,
 
 ## Exercise 3 - Add me as a collaborator 
 
-After you create your repo in the step above you will be on the main page of your repo. 
+After you create your repo in the step above you will be on the main page of your repo. The steps to add a callaborator are below and are from [this page.](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 
 1. Click on *Settings*
 
