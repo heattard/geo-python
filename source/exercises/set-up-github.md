@@ -1,8 +1,6 @@
-# Exercise 1: Cooking up some Python
+# Exercise 1: Make a Github account
 
-In the “Taste of Python” lesson this week we have learned a few basic things in Python. Now you get your chance to demonstrate your skills.
-
-This exercise is inspired by [Finland being ranked the world's happiest country for the 6th year in a row](https://yle.fi/a/74-20023112). As the instructors of the Geo-Python course, we think we've found a better way to assess the individual happiness of people in Finland (particularly those taking this course!), and we're going to test our idea with you. In *five easy steps (or problems)* we'll be able to reveal your happiness based on two of life's most important happiness factors: Ice cream and sleep!
+Navigate to [Github.com](github.com). Create a *free* account if you don't already have one. 
 
 ## Problem 1 - Creating your own Jupyter notebook
 
