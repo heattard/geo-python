@@ -51,7 +51,10 @@ After you create your repo in the step above you will be on the main page of you
 ## Exercise 6 - Start with exericse 1 
 
 1. If you already started exericse 1, copy your `exercise-1.ipynb` notebook into this directory
-2. If you did not start exercise 1, create your `exercise-1.ipynb` notebook in this direcotry
+   
+2. If you did not start exercise 1, create your `exercise-1.ipynb` notebook in this directory
+
+   
 3. Type `git add exercise-1.ipynb` this puts your new notebook into your git repo
    * You must do this every time with a new file
 
@@ -59,7 +62,7 @@ After you create your repo in the step above you will be on the main page of you
 
 5. Type `git commit -m "initial commit"`. This will commit all of your changes and include a message
 
-7. At this point if you run `git status` it should say there is nothing to commit, which means that all of your changes and version control are *stored locally*
+6. At this point if you run `git status` it should say there is nothing to commit, which means that all of your changes and version control are *stored locally*
 
 ## Continue to commit your code as you work
 As you continue in this exericise you will be making changes to your notebook `Exercise-1.ipynb`. These changes need to be committed, so they are saved in your version control.
