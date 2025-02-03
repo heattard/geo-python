@@ -6,10 +6,10 @@ Navigate to [Github.com](github.com). Create a *free* account if you don't alrea
 
 A repository (often referred to as "repo") is a centralized location where data, files, or software are stored and managed. This centralized location makes it easy for multiple people to have access to code and the keep track of version history. 
 
-1. Create a new repo by clicking `new`
+1. Create a new repo by clicking **new**
 
-   * Name the repository `geo-python-exercises`
-   * Mark it as `private`
+   * Name the repository *geo-python-exercises*
+   * Mark it as **private**
    * Initalize with a README file
    * keep all the other defaults the same
 
@@ -17,19 +17,19 @@ A repository (often referred to as "repo") is a centralized location where data,
 
 After you create your repo in the step above you will be on the main page of your repo. The steps to add a callaborator are below and are from [this page.](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 
-1. Click on *Settings*
+1. Click on **Settings**
 
-2. In the "Access" section on the sidebar, click *Collaborators*
+2. In the "Access" section on the sidebar, click **Collaborators**
 
-3. Click *Add poeple*
+3. Click **Add poeple**
 
 4. In the serach filed, start typing my name or username (given in class) and you will see my picture with my username. Click on me
 
-5. Click *Add NAME to REPOSITORY*
+5. Click **Add *NAME* to *REPOSITORY***
 
 6. I will receive an email inviting me to the repository. Once I accept, I will have access to your repo. This is how I will see your completed exercises. 
 
-## 
+## Exercise 4 - Set up SSH with github 
 <!---
 ## Problem 2.5 - Connect what you are doing locally to your github repository online
 Note: The steps in Problem 2, 2.5, and Continuing to commit your work are from [this youtube video.](https://www.youtube.com/watch?v=jXpT8eOzzCM) 
