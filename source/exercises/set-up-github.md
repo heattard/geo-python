@@ -14,7 +14,7 @@ A repository (often referred to as "repo") is a centralized location where data,
    * Initalize with a README file
    * keep all the other defaults the same
 
-## Exercise 3 - Add me as a collaborator 
+## Task 3 - Add me as a collaborator 
 
 After you create your repo in the step above you will be on the main page of your repo. The steps to add a callaborator are below and are from [this page.](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 
@@ -30,7 +30,7 @@ After you create your repo in the step above you will be on the main page of you
 
 6. I will receive an email inviting me to the repository. Once I accept, I will have access to your repo. This is how I will see your completed exercises. 
 
-## Exercise 4 - Set up SSH with github 
+## Task 4 - Set up SSH with github 
 These directions are based on [these github directions to generate a key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [these directions to add teh SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 1. In your terminal past this text: `ssh-keygen -t ed25519 -C "your_email@example.com"`
 
@@ -58,7 +58,7 @@ These directions are based on [these github directions to generate a key](https:
 
 13. If prompted, confirm access to your account on GitHub 
 
-## Exercise 5 - Connect your github repo to the Wac Server 
+## Task 5 - Connect your github repo to the Wac Server 
 1. Navigate to your `geo-python` repo
 
 2. In your repo on github, where it says **Code** in green:
@@ -75,7 +75,7 @@ These directions are based on [these github directions to generate a key](https:
 
 5. Type `git status` and everything should be up to date 
 
-## Exercise 6 - Start with exericse 1 
+## Task 6 - Start with exericse 1 
 
 1. If you already started exericse 1, copy your `exercise-1.ipynb` notebook into this directory
    
