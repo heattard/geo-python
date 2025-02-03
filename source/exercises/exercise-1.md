@@ -4,20 +4,27 @@ In the “Taste of Python” lesson this week we have learned a few basic things
 
 This exercise is inspired by [Finland being ranked the world's happiest country for the 6th year in a row](https://yle.fi/a/74-20023112). As the instructors of the Geo-Python course, we think we've found a better way to assess the individual happiness of people in Finland (particularly those taking this course!), and we're going to test our idea with you. In *five easy steps (or problems)* we'll be able to reveal your happiness based on two of life's most important happiness factors: Ice cream and sleep!
 
+> This page has been updated as of 1:40pm on 3 February 2025.  
+
 ## Problem 1 - Creating your own Jupyter notebook
-
-1. Create a directory called `geo-python` in your home directory
    
-2. `cd` into that directory and create a folder called `exercise-1`
+1. `cd` into your `geo-python-exercises` directory
    
-3. Open Jupyter lab from the browser as was discussed in class and create a new notebook in your `exercise-1` directory.
+2. Open Jupyter lab from the browser as was discussed in class and create a new notebook in your `exercise-1` directory.
 
-4. Use the file browser on the left side of the Jupyter Lab window to change the name of your notebook file to `exercise-1.ipynb`.
+3. Use the file browser on the left side of the Jupyter Lab window to change the name of your notebook file to `exercise-1.ipynb`.
 
-## Problem 2 - Create your git repository
+## Problem 2 - Add the notebook to your git repo
 
-1. Go back to your terminal and make sure you are in the `exercise-1` directory
+1. Go back to your terminal and make sure you are still in the `geo-python-exercises` directory
+   
+2. Type `git add exercise-1.ipynb` to add this file to your git repository
 
+3. Type `git status` - this should say `No commits yet` and list the files that have changes to be commited. These files are said to be `staged` to commit meaning they have changes and are ready to be commited
+
+4. Type `git commit -m "initial commit"`. This will commit all of your changes and include a message
+
+<!---
 2. Type `get init`. This makes this directory a git directory
 
 3. Type `ls -al` you should see your `Exercise-1.ipynb` file listed *and* and directory called `.git`
@@ -29,7 +36,7 @@ This exercise is inspired by [Finland being ranked the world's happiest country 
 6. Type `git commit -m "initial commit"`. This will commit all of your changes and include a message
 
 7. At this point if you run `git status` it should say there is nothing to commit, which means that all of your changes and version control are *stored locally*
-
+---> 
 <!---
 ## Problem 2.5 - Connect what you are doing locally to your github repository online
 Note: The steps in Problem 2, 2.5, and Continuing to commit your work are from [this youtube video.](https://www.youtube.com/watch?v=jXpT8eOzzCM) 
