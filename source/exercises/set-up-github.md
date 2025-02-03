@@ -12,29 +12,24 @@ A repository (often referred to as "repo") is a centralized location where data,
    * Mark it as `private`
    * Initalize with a README file
    * keep all the other defaults the same
-   
-3. `cd` into that directory and create a folder called `exercise-1`
-   
-4. Open Jupyter lab from the browser as was discussed in class and create a new notebook in your `exercise-1` directory.
 
-5. Use the file browser on the left side of the Jupyter Lab window to change the name of your notebook file to `exercise-1.ipynb`.
+## Exercise 3 - Add me as a collaborator 
 
-## Problem 2 - Create your git repository
+After you create your repo in the step above you will be on the main page of your repo. 
 
-1. Go back to your terminal and make sure you are in the `exercise-1` directory
+1. Click on *Settings*
 
-2. Type `get init`. This makes this directory a git directory
+2. In the "Access" section on the sidebar, click *Collaborators*
 
-3. Type `ls -al` you should see your `Exercise-1.ipynb` file listed *and* and directory called `.git`
+3. Click *Add poeple*
 
-4. Type `git add .` to add all the files from this directory to your git repository
+4. In the serach filed, start typing my name or username (given in class) and you will see my picture with my username. Click on me
 
-5. Type `git status` - this should say `No commits yet` and list the files that have changes to be commited. These files are said to be `staged` to commit meaning they have changes and are ready to be commited
+5. Click *Add NAME to REPOSITORY*
 
-6. Type `git commit -m "initial commit"`. This will commit all of your changes and include a message
+6. I will receive an email inviting me to the repository. Once I accept, I will have access to your repo. This is how I will see your completed exercises. 
 
-7. At this point if you run `git status` it should say there is nothing to commit, which means that all of your changes and version control are *stored locally*
-
+## 
 <!---
 ## Problem 2.5 - Connect what you are doing locally to your github repository online
 Note: The steps in Problem 2, 2.5, and Continuing to commit your work are from [this youtube video.](https://www.youtube.com/watch?v=jXpT8eOzzCM) 
