@@ -1,8 +1,9 @@
-# Exercise 1 - Make a Github account
+# Setting up git and Github
 
+## Task 1 - Make a Github Account
 Navigate to [Github.com](github.com). Create a *free* account if you don't already have one. 
 
-## Exercise 2 - Make a repository to hold all of your homework assignments
+## Task 2 - Make a repository to hold all of your homework assignments
 
 A repository (often referred to as "repo") is a centralized location where data, files, or software are stored and managed. This centralized location makes it easy for multiple people to have access to code and the keep track of version history. 
 
