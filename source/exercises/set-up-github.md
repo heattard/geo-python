@@ -1,16 +1,23 @@
-# Exercise 1: Make a Github account
+# Exercise 1 - Make a Github account
 
 Navigate to [Github.com](github.com). Create a *free* account if you don't already have one. 
 
-## Problem 1 - Creating your own Jupyter notebook
+## Exercise 2 - Make a repository to hold all of your homework assignments
 
-1. Create a directory called `geo-python` in your home directory
-   
-2. `cd` into that directory and create a folder called `exercise-1`
-   
-3. Open Jupyter lab from the browser as was discussed in class and create a new notebook in your `exercise-1` directory.
+A repository (often referred to as "repo") is a centralized location where data, files, or software are stored and managed. This centralized location makes it easy for multiple people to have access to code and the keep track of version history. 
 
-4. Use the file browser on the left side of the Jupyter Lab window to change the name of your notebook file to `exercise-1.ipynb`.
+1. Create a new repo by clicking `new`
+
+   * Name the repository `geo-python-exercises`
+   * Mark it as `private`
+   * Initalize with a README file
+   * keep all the other defaults the same
+   
+3. `cd` into that directory and create a folder called `exercise-1`
+   
+4. Open Jupyter lab from the browser as was discussed in class and create a new notebook in your `exercise-1` directory.
+
+5. Use the file browser on the left side of the Jupyter Lab window to change the name of your notebook file to `exercise-1.ipynb`.
 
 ## Problem 2 - Create your git repository
 
