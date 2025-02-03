@@ -51,9 +51,11 @@ These directions are based on [these github directions to generate a key](https:
 
 10. In the "Key" field paste the public key you copied from the terminal
 
-11. Click **Add SSH** key
+    * If there is a line break in your key when you paste, go to the break and hit delete once.  Ask me with questions
 
-12. If prompted, confirm access to your account on GitHub 
+12. Click **Add SSH** key
+
+13. If prompted, confirm access to your account on GitHub 
 
 ## Exercise 5 - Connect your github repo to the Wac Server 
 1. Navigate to your `geo-python` repo
