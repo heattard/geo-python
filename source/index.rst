@@ -118,7 +118,6 @@ The course has 7 themes that will be addressed throughout the semester.
     lessons/L2/intro-to-GitHub
     lessons/L2/git-basics
     notebooks/L2/gcp-2-describing-code.ipynb
-    lessons/L2/why-pairs
     lessons/L2/exercise-2
 
 .. toctree::
