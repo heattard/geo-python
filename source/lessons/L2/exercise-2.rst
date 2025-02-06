@@ -16,18 +16,23 @@ Exercise 2
 
     cp -r /shared/geo-python2025/exercises/exercise-2/ .
 
-This will copy the exercise-2 directory and its contents into your own directory.  
+This will copy the exercise-2 directory and its contents into your own directory.  To see what's inside the new directory run the following: 
 
 .. code:: console
 
     cd exercise-2
+
+.. code:: console
+
     ls
 
-Inside this directory you should now see two files "Exercise-2.ipynb" and "README.md"
+You should see "Exercise-2.ipynb" and "README.md"
+
+Open the README.md file in JupyterLab and you will see the directions.  You will be editing the 'Exercise-2.ipynb' file for this assignment. 
+
 
 You can also take a look at the template repository for `Exercise 2 on GitHub <https://github.com/Geo-Python-2023/Exercise-2>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
-
 
 
 Exercise 2 hints
