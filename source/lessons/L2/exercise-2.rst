@@ -5,9 +5,14 @@ Exercise 2
 
     This assignment is a work in progress as of 2/6/25
 
-.. admonition:: Start your assignment
+.. admonition:: Original Exercise
+    You can also take a look at the template repository for `Exercise 2 on GitHub <https://github.com/Geo-Python-2023/Exercise-2>`__ (does not require logging in) from the original creators of this course. Note that you should not try to make changes to this copy of the exercise and that it may be slightly different than the version we are using
 
-    **You can start working on your copy of Exercise 2 by** copying the Jupyter notebook and README file from the shared exercise directory by 
+Getting Started 
+----------------
+    **You can start working on your copy of Exercise 2** by copying the prepared Jupyter notebook and README file from the shared exercise directory. 
+
+Follow the directions below 
 
     1. Navigate to your exercise directory
     2. Run the following code 
@@ -28,11 +33,9 @@ This will copy the exercise-2 directory and its contents into your own directory
 
 You should see "Exercise-2.ipynb" and "README.md"
 
-Open the README.md file in JupyterLab and you will see the directions.  You will be editing the 'Exercise-2.ipynb' file for this assignment. 
+Open the README.md file in JupyterLab and you will see the directions.  
 
-
-You can also take a look at the template repository for `Exercise 2 on GitHub <https://github.com/Geo-Python-2023/Exercise-2>`__ (does not require logging in).
-Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
+**You will be editing the 'Exercise-2.ipynb' file for this assignment.** 
 
 
 Exercise 2 hints
