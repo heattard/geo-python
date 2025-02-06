@@ -7,15 +7,23 @@ Exercise 2
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 2 by** copying the Jupyter notebook and README file from the shared exercise directory
+    **You can start working on your copy of Exercise 2 by** copying the Jupyter notebook and README file from the shared exercise directory by 
 
-    Navigate to your exercise directory
+    1. Navigate to your exercise directory
+    2. Run the following code 
 
 .. code:: console
 
     cp -r /shared/geo-python2025/exercises/exercise-2/ .
 
-This will copy the exercise-2 directory and its contents into your own directory.  Inside this directory you should now see two files "Exercise-2.ipynb" and "README.md"
+This will copy the exercise-2 directory and its contents into your own directory.  
+
+.. code:: console
+
+    cd exercise-2
+    ls
+
+Inside this directory you should now see two files "Exercise-2.ipynb" and "README.md"
 
 You can also take a look at the template repository for `Exercise 2 on GitHub <https://github.com/Geo-Python-2023/Exercise-2>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
