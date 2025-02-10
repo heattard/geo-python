@@ -13,7 +13,7 @@ Getting Started
     **You can start working on your copy of Exercise 2** by copying the prepared Jupyter notebook and README file from the shared exercise directory. 
 
 Follow the directions below 
-
+    In your terminal:
     1. Navigate to your exercise directory
     2. Run the following code 
 
