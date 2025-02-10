@@ -3,7 +3,7 @@ Exercise 2
 
 .. note::
 
-    This assignment is a work in progress as of 2/6/25
+    This assignment is updated and ready for students as of 2/10/25
 
 .. admonition:: Original Exercise
     You can also take a look at the template repository for `Exercise 2 on GitHub <https://github.com/Geo-Python-2023/Exercise-2>`__ (does not require logging in) from the original creators of this course. Note that you should not try to make changes to this copy of the exercise and that it may be slightly different than the version we are using
