@@ -9,7 +9,7 @@ Exercise 3
 
     **You can start working on your copy of Exercise 3 by** making a copy of the exercise 3 directory that is in /shared to your own home directory  
 
-    To do this, follow the instructions from lesson 2 <https://geo-python-heattard.readthedocs.io/en/latest/lessons/L2/exercise-2.html#exercise-2> but change **exercise-2** to **exercise-3**
+    To do this, follow the instructions from `lesson 2 <https://geo-python-heattard.readthedocs.io/en/latest/lessons/L2/exercise-2.html#exercise-2>`__ but change **exercise-2** to **exercise-3**
 
 You can also take a look at the template repository for `Exercise 3 on GitHub <https://github.com/Geo-Python-2023/Exercise-3>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise
