@@ -6,10 +6,10 @@ Exercise 1
     Please complete this exercise **by 10 February 2025 at 11:59 pm **
 
 
-Part 1 - Set Up your Directory
+Part 1 - Set Up your HW Directory
 ---------------------------
 
-1. Open a web browser and navigate to https://www.github.com.
+1. In your geo-python directory make a directory called 'homework'
 2. On the `GitHub.com <https://www.github.com>`__ home page, click on **Sign up** on the top right.
 
    .. figure:: img/GitHub.png
