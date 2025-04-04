@@ -169,6 +169,7 @@ The course has 7 themes that will be addressed throughout the semester.
     lessons/L7/python-plotting
     lessons/L7/plot-anatomy
     notebooks/L7/basic-plotting.ipynb
+    notebooks/L7/line-plots.ipynb
     notebooks/L7/advanced-plotting.ipynb
     lessons/L7/exercise-7
 
