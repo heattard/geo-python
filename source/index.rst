@@ -171,7 +171,7 @@ The course has 7 themes that will be addressed throughout the semester.
     notebooks/L7/basic-plotting.ipynb
     notebooks/L7/line-plots.ipynb
     notebooks/L7/advanced-plotting.ipynb
-    lessons/L7/exercise-7
+    lessons/L7/subplots.ipynb
 
 .. toctree::
     :maxdepth: 2
