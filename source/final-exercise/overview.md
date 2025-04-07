@@ -3,11 +3,8 @@
 
 > The final exercise is due by **2 May 2025**.
 
+> To start the assignment: Create a `final-project` directory in your `exercises` directory
 
-::: note [**Start your Assignment**]
-
-Create a `final-project` directory in your `exercises` directory
-:::
 
 ## The assignment
 For this _Final Project_ you will be creating a 2 panel plot for your assigned SSW. 
