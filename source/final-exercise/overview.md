@@ -38,3 +38,16 @@ The second panel, which can either be next to the first panel, or below it, will
 #### The data
 - The climotologlical mean data is in `/data/merra2/climo/u10hPa60N_climo.csv`
 - The daily data for all years is in `/data/merra2/u_10hPa_60N.csv`
+
+#### The Presentaion
+On 2 May 2025 you will give a 5-minute presentation about your plots, which must include:
+1. A brief overview of the SSW:
+    - the date of the SSW
+    -  a **short** discussion of how _anomalous_ this was for the season (e.g., was the wind stronger than usual at the beginning of the season and then rapidly decrease?
+2. A discussion of the plots.  Consider the questions below and address 2-3 of them: 
+   - did you keep the +/- 2 week period? why/why not?
+   - How did you make the box? the line?
+   - Did you do anything different/special?
+   - Was something particularly difficult? How did you figure out how to do it?
+   - was there something you _wanted_ to do but couldn't figure out how to do?
+   - anything else that addresses the plots 
