@@ -33,4 +33,8 @@ The second panel, which can either be next to the first panel, or below it, will
 3. A line on the start date of the SSW
 
 >Note that the two panels **do not** need to have the same y axes.
->If you think that your Panel 2 (the zoom in version) should be over a different time period (e.g., +/- 3 weeks) because it shows the evoluation of the wind better, go ahead! 
+>If you think that your Panel 2 (the zoom in version) should be over a different time period (e.g., +/- 3 weeks) because it shows the evoluation of the wind better, go ahead!
+
+#### The data
+- The climotologlical mean data is in `/data/merra2/climo/u10hPa60N_climo.csv`
+- The daily data for all years is in `/data/merra2/u_10hPa_60N.csv`
