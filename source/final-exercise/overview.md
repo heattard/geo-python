@@ -7,7 +7,10 @@
 
 
 ## The assignment
-For this _Final Project_ you will be creating a 2 panel plot for your assigned SSW. 
+For this _Final Project_ you will be creating a 2 panel plot for your assigned SSW. I will _not_ be providing a jupyter notebook for this assignment. To create your own notebook, navigate to your `final-project` directory on the left-hand side of Jupyter and on the "Launcher page" click on the "Python 3" tile under "Notebook" As shown in the screenshot below
+
+![click this link](img/screenshot-notebook-tile.png)
+
 
 ### Panel 1
 
